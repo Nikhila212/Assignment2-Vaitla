@@ -23,12 +23,14 @@ Paradise is loacted in Hyderabad, India. It is one of the best places which serv
 # Table
 This table represents the sports that I want to try. This table consists of 3 columns. First column represents th ename of the sport/activity. Second column represents the location of where it can be played. Third column represents the amount that one spends on the personal equipment. 
 
-| Badminton | Court  | $200 |
-| ----------| ------ | ---- |
-|  Cricket  | Ground | $150 |
-| ----------| -------| -----|
-|   Tennis  | Court  | $250 |
-| ----------| ------ | ---- |
-| Foot Ball | Ground | $180 |
-| ----------| -------| -----|
+| Sport Name | Location | Amount |
+| ---------- |  ------  | ----- |
+|  Cricket   |  Ground  | $150  |
+| ---------- |  ------- | ----- |
+|   Tennis   |  Court   | $250  |
+| ---------- |  ------  | ----  |
+| Foot Ball  |  Ground  | $180  |
+| ---------- |  ------- | ----- |
+| Badminton  |  Court   | $200  |
+
     
