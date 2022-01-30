@@ -36,6 +36,7 @@ This table represents the sports that I want to try. This table consists of 3 co
 ***
 # Pithy Quotes
 > "Life is either a great adventure or nothing." - *Helen Keller*
+> 
 > “Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.” — *Oprah Winfrey*
 
     
