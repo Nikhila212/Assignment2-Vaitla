@@ -10,5 +10,10 @@ Paradise is loacted in Hyderabad, India. It is one of the best places which serv
      1. Take a right from airport parking. Travel for 2 Kms straight.
      2. Take a left and travel for 16kms on highway 25.
      3. From then take left and travel onto 8 kms and your destination will be on right.
-
- 
+* Recommended Food Items    
+    * Haleem
+    * Gulab Jamun
+    * Prawns Biryani
+    * Mutton Gohst
+    * Apollo Fish
+    
